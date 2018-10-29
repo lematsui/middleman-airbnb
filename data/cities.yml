@@ -1,0 +1,18 @@
+london:
+  name: "Le Wagon London"
+  description: "In trendy Hoxton!"
+paris:
+  name: "Le Wagon Paris"
+  description: "Bonjour!"
+tokyo:
+  name: "Le Wagon Tokyo"
+  description: "Eat some ramen."
+rio:
+  name: "Le Wagon Rio"
+  description: "Lovely weather."
+london2:
+  name: "Le Wagon London"
+  description: "In trendy Hoxton!"
+paris2:
+  name: "Le Wagon Paris"
+  description: "Bonjour!"

@@ -1,0 +1,10 @@
+<div class="main-container">
+  <div class="container">
+    <div class="team">
+      <% data.users.each do |user, user_info| %>
+        <img src="https://kitt.lewagon.com/placeholder/users/<%= user_info["username"] %>" alt="<% user %>" class="img-circle profile" height="150px">
+      <% end %>
+    </div>
+    <p class="text-center">THE TEAM</p>
+  </div>
+</div>
